@@ -1,0 +1,6 @@
+
+A)   Design and build a PKI infrastructure that includes Root CA, Signing CA, and TLS Certificate, as described here: http (Links to an external site.)://pki-tutorial.readthedocs.io/en/latest/simple (Links to an external site.)/ (Links to an external site.)
+
+B)   Use the TLS certificate to install a web server, e.g. tomcat, https://tomcat.apache.org/tomcat-7.0-doc/ssl-howto. (Links to an external site.)html (Links to an external site.)
+
+Document your progress, including screenshots/recording of web browser showing you are securely connected to the site you have created, and submit Word document including github reference to code, etc..
